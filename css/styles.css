@@ -524,8 +524,17 @@ min-height:200px;
 }
 .experience-details span {
 	font-size: 14px;
-	color: #000;
+	color: #858585;
 }
+
+.experience-details h4 {
+	color: #858585;
+}
+
+.experience-details h5 {
+	color: #858585;
+}
+
 .progress-bar {
 	background-color: #FF7A00;
 }
@@ -826,7 +835,7 @@ footer {
 background: url(../images/bg2.png) top repeat;
 	}
 #contactUs{
-	background: url(../images/bg.jpg) top repeat;
+	background-color: #d8d8d8;
 }
 @media (min-width: 768px) {
 .header .navbar-brand {
